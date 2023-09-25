@@ -1,0 +1,21 @@
+
+.text-photo {
+    position: relative;
+	text-align:center;
+	right: 100px;
+	top: 100px;
+}
+.text-test {
+    position: relative;
+	text-align:center;
+	top: 250px
+}
+
+.stolb {
+	font-style: bold;
+	font-size: 30px;
+}
+.text_pocxemu {
+
+
+}
